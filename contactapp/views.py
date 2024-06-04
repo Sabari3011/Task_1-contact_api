@@ -22,3 +22,4 @@ class Contactview(APIView):
 
     # {"name":"sabari","email":"saba@12gmail.com" , "message":"heloooo"}
     
+
